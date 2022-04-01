@@ -1,0 +1,12 @@
+# How to open a big (10G+) csv data file in Python?
+# Method 1:
+f = open(csv_file, 'r')
+print(f.read(1000))
+# read first 1000 strings
+
+# Method 2:
+with open(csv_file, 'r') as f:
+  reader = csv.reader(f)
+    for row in reader:
+    print(row)
+# 
