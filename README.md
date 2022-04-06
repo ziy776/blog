@@ -1,5 +1,5 @@
 # Blog
-这是我的Blog，blog都写在wiki里
+这是我的blog，blog都写在wiki里
 
 ## Python
 * [打开超大csv数据 10G](https://github.com/ziy776/blog/wiki/Python:-%E6%89%93%E5%BC%80%E8%B6%85%E5%A4%A7csv%E6%95%B0%E6%8D%AE-10G)
