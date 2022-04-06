@@ -7,3 +7,9 @@
 ## Linux
 * [选取特定列](https://github.com/ziy776/blog/wiki/Linux:-%E9%80%89%E5%8F%96%E7%89%B9%E5%AE%9A%E5%88%97)
 * [数据去重](https://github.com/ziy776/blog/wiki/Linux:-%E6%95%B0%E6%8D%AE%E5%8E%BB%E9%87%8D)
+
+## XGBoost
+* [安装方法](https://github.com/ziy776/blog/wiki/XGBoost:-%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95)
+
+## Python报错
+* [Pandas: DataFrame is highly fragmented](https://github.com/ziy776/blog/wiki/Pandas:-DataFrame-is-highly-fragmented)
