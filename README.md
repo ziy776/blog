@@ -1,4 +1,4 @@
-# blog
-blog都写在wiki里
+# Blog
+这是我的Blog，blog都写在wiki里
 
 
