@@ -13,4 +13,4 @@
 * [安装方法](https://github.com/ziy776/blog/wiki/XGBoost:-%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95)
 
 ## Python报错
-* [Pandas: DataFrame is highly fragmented](https://github.com/ziy776/blog/wiki/Pandas:-DataFrame-is-highly-fragmented)
+* [DataFrame is highly fragmented](https://github.com/ziy776/blog/wiki/Pandas:-DataFrame-is-highly-fragmented)
