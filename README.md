@@ -14,3 +14,6 @@
 
 ## Python报错
 * [DataFrame is highly fragmented](https://github.com/ziy776/blog/wiki/Pandas:-DataFrame-is-highly-fragmented)
+
+## Anaconda
+* [Codes about environment](https://github.com/ziy776/blog/wiki/Anaconda:-Codes-about-environment)
